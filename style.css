@@ -41,6 +41,7 @@ nav ul {
 }
 
 nav a {
+  display: inline-block;
   color: #fff;
   font-weight: bold;
   text-transform: uppercase;
